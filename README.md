@@ -18,7 +18,6 @@ The goal of `log-zoo` is to provide a centralized collection of real-world log e
 Log samples are organized by their format or transport protocol at the top level. The file names should be descriptive of the vendor and event type.
 
 ```
-
 .
 ├── cef/
 ├── csv/
@@ -27,7 +26,6 @@ Log samples are organized by their format or transport protocol at the top level
 └── syslog/
 ├──── rfc3164/
 └──── rfc5424/
-
 ````
 
 * **`cef/`**: ArcSight Common Event Format (CEF) logs.
