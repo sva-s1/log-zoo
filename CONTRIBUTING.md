@@ -1,4 +1,4 @@
-CONTRIBUTING.md# Contributing to log-zoo
+# Contributing to log-zoo
 
 Thank you for your interest in contributing! Your help is essential for making this repository a valuable resource for everyone. By contributing, you agree to release your work into the public domain under the [CC0 1.0 Universal](LICENSE) license.
 
@@ -8,7 +8,7 @@ Thank you for your interest in contributing! Your help is essential for making t
 
 Before you commit any file, you must remove all sensitive information. This is the most important rule.
 
-> [!CRITICAL]
+> [!CAUTION]
 > **All personally identifiable information (PII) and customer-specific data MUST be removed.** Failure to sanitize data will result in your pull request being rejected.
 
 Scrub your log samples for:
