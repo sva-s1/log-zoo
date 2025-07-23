@@ -65,3 +65,4 @@ For pre-built dashboards, monitors, parsers, and other configurations that can b
 
 This repository is dedicated to the public domain under the [CC0 1.0 Universal](https://www.google.com/search?q=LICENSE) license. You can copy, modify, and distribute the work, even for commercial purposes, without asking permission.
 
+ 
