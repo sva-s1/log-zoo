@@ -1,4 +1,4 @@
-# 🪵🐒 log-zoo
+# 🪵🐒 Log Zoo
 
 A community-driven repository of raw, unparsed log samples from various vendors and applications.
 
