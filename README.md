@@ -25,8 +25,8 @@ Log samples are organized by their format or transport protocol at the top level
 ├── json/
 ├── leef/
 └── syslog/
-├── rfc3164/
-└── rfc5424/
+├──── rfc3164/
+└──── rfc5424/
 
 ````
 
