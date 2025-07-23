@@ -36,6 +36,7 @@ Log samples are organized by their format or transport protocol at the top level
     * `rfc3164/`: The legacy BSD-style syslog protocol.
     * `rfc5424/`: The newer, standardized syslog protocol.
 
+
 > [!NOTE]
 > While formats like **CEF** and **LEEF** are often transported via syslog, they are distinct log formats. They have their own top-level directories to accommodate samples that may be sourced from files (`.log`, `.txt`) instead of a direct syslog stream.
 
