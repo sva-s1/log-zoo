@@ -1,1 +1,30 @@
+# Operating system specific files
 .DS_Store
+Thumbs.db
+
+# Synology-specific
+**/\@eaDir/
+
+# Temporary and log files
+*.tmp
+*.temp
+*.log
+
+# Lock files
+*.lock
+
+# Backup files
+*~
+*.bak
+
+# IDE and editor specific
+.vscode/
+.idea/
+
+# Compiled or generated files
+build/
+dist/
+
+# Dependency caches
+node_modules/
+vendor/
