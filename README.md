@@ -48,7 +48,7 @@ Log samples are organized by their format or transport protocol at the top level
 Clone the repository to get local access to the samples. You can use these files as test data for scripts, parser development, or any other analysis.
 
 ```bash
-git clone [https://github.com/your-org/log-zoo.git](https://github.com/your-org/log-zoo.git)
+git clone https://github.com/sva-s1/log-zoo.git
 ````
 
 -----
