@@ -1,4 +1,9 @@
+![](https://upload.wikimedia.org/wikipedia/commons/6/62/Fortinet_logo.svg)
+
 # Fortinet FortiGate Logs
+
+> [!NOTE]  
+> All logos, trademarks, and brand names displayed in this documentation are the property of their respective owners. The Fortinet logo shown above is sourced from Wikimedia Commons and is used for identification purposes only. This repository is not affiliated with, endorsed by, or sponsored by Fortinet, Inc.
 
 This directory contains sample log files from Fortinet FortiGate firewalls. These logs are transported via syslog but use Fortinet's proprietary key-value format rather than standard syslog message formats.
 
