@@ -19,13 +19,28 @@ Log samples are organized by their format or transport protocol at the top level
 
 ```
 .
-├── cef/
-├── csv/
-├── json/
-├── leef/
-└── syslog/
-├──── rfc3164/
-└──── rfc5424/
+├── cef
+│   ├── README.md
+│   └── xypro_nonstop_object_access.log
+├── CONTRIBUTING.md
+├── csv
+│   └── PLACEHOLDER
+├── fortinet
+│   └── event.type
+│       ├── security-rating
+│       │   └── fortigate.log
+│       ├── system
+│       │   └── fortigate.log
+│       └── traffic
+│           └── fortigate.log
+├── json
+│   └── PLACEHOLDER
+├── README.md
+└── syslog (custom)
+    ├── rfc3164
+    │   └── PLACEHOLDER
+    └── rfc5424
+        └── PLACEHOLDER
 ````
 
 * **`cef/`**: ArcSight Common Event Format (CEF) logs.
