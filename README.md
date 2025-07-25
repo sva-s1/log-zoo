@@ -9,7 +9,7 @@ A community-driven repository of raw, unparsed log samples from various vendors 
 The goal of `log-zoo` is to provide a centralized collection of real-world log examples for development, testing, and security research. These samples are useful for building and validating parsers, testing normalization rules, and understanding data structures from different log sources.
 
 > [!IMPORTANT]
-> The logs in this repository are **raw events** sourced directly from vendors (e.g., cloud applications, network appliances, self-hosted software). They have **not** been parsed or processed by SentinelOne's Security DataLake (SDL) or any other SIEM.
+> The logs in this repository are **raw events** sourced directly from vendors (e.g., cloud applications, network appliances, self-hosted software). They have **not** been parsed or processed by SentinelOne's Singularity DataLake (SDL) or any other SIEM.
 
 ***
 
