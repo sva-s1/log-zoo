@@ -2,6 +2,21 @@
 
 This directory contains sample log files from Fortinet FortiGate firewalls. These logs are transported via syslog but use Fortinet's proprietary key-value format rather than standard syslog message formats.
 
+## Directory Structure
+
+```
+fortinet/
+└── event.type/
+    ├── security-rating/
+    │   └── fortigate.log
+    ├── system/
+    │   └── fortigate.log
+    └── traffic/
+        └── fortigate.log
+```
+
+The logs are organized by event type to facilitate easy categorization and analysis. Additional event types can be added following the same structure pattern.
+
 ## Log Format
 
 Fortinet logs use a space-separated key-value pair format where each field is represented as `key=value`. The logs contain no structured delimiters like JSON or XML, making them unique among network security appliances.
