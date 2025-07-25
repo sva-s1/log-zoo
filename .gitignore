@@ -8,7 +8,7 @@ Thumbs.db
 # Temporary and log files
 *.tmp
 *.temp
-*.log
+# *.log
 
 # Lock files
 *.lock

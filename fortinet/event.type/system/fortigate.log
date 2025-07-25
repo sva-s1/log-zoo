@@ -1,0 +1,1 @@
+<190>date=2025-07-25 time=07:58:50 devname="FortiGate-40F-SVA" devid="FGT40FTK2409BDPZ" eventtime=1753455529570272359 tz="-0700" logid="0100026003" type="event" subtype="system" level="information" vd="root" logdesc="DHCP statistics" interface="lan" total=101 used=0 msg="DHCP statistics"
